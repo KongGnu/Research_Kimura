@@ -1,0 +1,14 @@
+# Compiled C files
+*.o
+*.exe
+*.out
+
+# Build directory
+build/
+
+# Simulation results
+results/
+abundance.txt
+
+# Temporary files
+*.tmp
